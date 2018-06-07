@@ -1,8 +1,21 @@
 # Change Log
 
-## [v0.0.1](https://github.com/nubisproject/nubis-json2hcl/tree/v0.0.1) (2018-06-07)
+## [v0.0.2](https://github.com/nubisproject/nubis-json2hcl/tree/v0.0.2) (2018-06-07)
+[Full Changelog](https://github.com/nubisproject/nubis-json2hcl/compare/v0.0.1...v0.0.2)
+
 **Merged pull requests:**
 
+- Fix bash \> ash and add build dependancies [\#5](https://github.com/nubisproject/nubis-json2hcl/pull/5) ([tinnightcap](https://github.com/tinnightcap))
+
+## [v0.0.1](https://github.com/nubisproject/nubis-json2hcl/tree/v0.0.1) (2018-06-07)
+**Closed issues:**
+
+- Tag v0.0.1 release [\#2](https://github.com/nubisproject/nubis-json2hcl/issues/2)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v0.0.1 release \[skip ci\] [\#4](https://github.com/nubisproject/nubis-json2hcl/pull/4) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v0.0.1 release \[skip ci\] [\#3](https://github.com/nubisproject/nubis-json2hcl/pull/3) ([nubis-automation](https://github.com/nubis-automation))
 - dd travis integration [\#1](https://github.com/nubisproject/nubis-json2hcl/pull/1) ([tinnightcap](https://github.com/tinnightcap))
 
 
